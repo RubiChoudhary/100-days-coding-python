@@ -1,15 +1,12 @@
-# Write Program to check if two arrays are the same or not.
-# Description Get two arrays as the input from the user and check whether it is the same or not.
-# Sample Input 
-# Enter the size of first array: n1 
-# Enter the size of second array: n2 
-# Accept elements of array 1
-# Accept elements of array 2 
-# Sample Output 
-# Same Strictly follow the format of Input and Output Test Case 1 Test Case 2 Test Case 3 
-# Input (stdin) 3 3 1 2 3 1 2 3 
-# Output (stdout) Same
-
+# Write Program to find the array type 
+# Description Get an array as input from the user and check the type of the array, 
+# whether it is odd, even or mixed type.
+# Input Enter size of array: 3 
+# Enter elements 1 3 5 
+# Output Odd 
+# Strictly follow the format of Input and Output Test Case 1 Test Case 2 Test Case 3 
+# Input (stdin) 4 1 2 3 4 
+# Output (stdout) Mixed
 
 
 n=int(input())
