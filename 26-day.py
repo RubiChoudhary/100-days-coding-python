@@ -21,3 +21,5 @@ for i in range(0, n):
     for j in range(0,3,1):
         print("*", end=' ')
     print()
+
+# just checking
