@@ -1,0 +1,5 @@
+a=int(input())
+a1=set(input().split())
+b=int(input())
+b1=set(input().split())
+print(len(a1.union(b1)))
