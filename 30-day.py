@@ -7,6 +7,3 @@ elif c<b & b>c:
     print(b)
 else:
     print(c)
-    
-    
-    
